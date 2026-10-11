@@ -1,0 +1,54 @@
+{
+  "gsm8k-A1": {
+    "tag": "gsm8k-A1",
+    "bench": "gsm8k",
+    "qid": "gsm8k-test-684",
+    "answer": "11",
+    "tl_tokens": 870,
+    "base_tokens": 45437,
+    "base_outcome": "correct",
+    "base_first_answer_token": 1082,
+    "base_waits": 249,
+    "tl_waits": 0,
+    "base_answer_mentions": 209
+  },
+  "math500-A1": {
+    "tag": "math500-A1",
+    "bench": "math500",
+    "qid": "math500-5",
+    "answer": "42",
+    "tl_tokens": 1629,
+    "base_tokens": 23774,
+    "base_outcome": "correct",
+    "base_first_answer_token": 1878,
+    "base_waits": 82,
+    "tl_waits": 1,
+    "base_answer_mentions": 15
+  },
+  "math500-B1": {
+    "tag": "math500-B1",
+    "bench": "math500",
+    "qid": "math500-97",
+    "answer": "east",
+    "tl_tokens": 2331,
+    "base_tokens": 81920,
+    "base_outcome": "cut off at 81,920 tokens, no answer",
+    "base_first_answer_token": 233,
+    "base_waits": 6478,
+    "tl_waits": 3,
+    "base_answer_mentions": 151
+  },
+  "gsm8k-B1": {
+    "tag": "gsm8k-B1",
+    "bench": "gsm8k",
+    "qid": "gsm8k-test-941",
+    "answer": "842",
+    "tl_tokens": 1004,
+    "base_tokens": 81920,
+    "base_outcome": "cut off at 81,920 tokens, no answer",
+    "base_first_answer_token": 2434,
+    "base_waits": 1453,
+    "tl_waits": 0,
+    "base_answer_mentions": 105
+  }
+}

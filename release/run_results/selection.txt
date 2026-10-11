@@ -1,0 +1,2 @@
+checkpoint-10      tokens=  6094 acc_vs_sft=+8.5 [+6.2, +10.9] on 300 problems
+selected: checkpoint-10

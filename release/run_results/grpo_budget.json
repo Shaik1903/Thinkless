@@ -1,0 +1,6 @@
+{
+  "correct_answers": 1980,
+  "share_over_8k": 0.4848,
+  "threshold": 0.25,
+  "max_len": 12288
+}

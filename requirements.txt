@@ -1,0 +1,10 @@
+trl[vllm]
+transformers
+accelerate
+datasets
+math-verify
+wandb
+openai
+matplotlib
+pytest
+flash-linear-attention

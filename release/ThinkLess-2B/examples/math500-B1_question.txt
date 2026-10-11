@@ -1,0 +1,3 @@
+A figure skater is facing north when she begins to spin to her right. She spins 2250 degrees. Which direction (north, south, east or west) is she facing when she finishes her spin?
+
+Please reason step by step, and put your final answer within \boxed{}.

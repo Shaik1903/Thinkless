@@ -1,0 +1,39 @@
+{
+  "examples": 8890,
+  "per_subject": {
+    "gsm8k": 4445,
+    "math-algebra": 1172,
+    "math-counting_and_probability": 459,
+    "math-geometry": 430,
+    "math-intermediate_algebra": 786,
+    "math-number_theory": 577,
+    "math-prealgebra": 679,
+    "math-precalculus": 342
+  },
+  "per_source": {
+    "gsm8k|self-8k": 3683,
+    "math-algebra|self-8k": 733,
+    "math-counting_and_probability|self-8k": 118,
+    "math-geometry|self-8k": 110,
+    "math-intermediate_algebra|self-8k": 84,
+    "math-number_theory|self-8k": 146,
+    "math-prealgebra|self-8k": 389,
+    "math-precalculus|self-8k": 51,
+    "gsm8k|self-16k": 94,
+    "math-algebra|self-16k": 223,
+    "math-counting_and_probability|self-16k": 94,
+    "math-geometry|self-16k": 67,
+    "math-intermediate_algebra|self-16k": 172,
+    "math-number_theory|self-16k": 137,
+    "math-prealgebra|self-16k": 98,
+    "math-precalculus|self-16k": 74,
+    "gsm8k|teacher-9B": 668,
+    "math-algebra|teacher-9B": 216,
+    "math-counting_and_probability|teacher-9B": 247,
+    "math-geometry|teacher-9B": 253,
+    "math-intermediate_algebra|teacher-9B": 530,
+    "math-number_theory|teacher-9B": 294,
+    "math-prealgebra|teacher-9B": 192,
+    "math-precalculus|teacher-9B": 217
+  }
+}

@@ -1,0 +1,11 @@
+data/
+outputs/
+*.shard*.jsonl
+*.log
+__pycache__/
+.pytest_cache/
+wandb/
+.superpowers/
+.env
+# raw eval outputs are on the HF dataset, not in git
+release/eval_outputs/
